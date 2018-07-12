@@ -1,0 +1,16 @@
+web前端   html css js  vue node.js
+移动端  android ios
+后端 python go php java
+
+算法 数据结构
+
+网址 - 域名解析- CDN - ip - 主机（服务器）- 对请求做处理 - html（vue）+ js（mysql取数据，持久化存储）
+服务器  :80 , 443
+
+写api接口，
+
+人工智能 深度学习
+训练
+
+55，4，3，7，1，9
+mac linux windows
